@@ -12,6 +12,12 @@ Il est à noter qu'à chaque début de séance (à partir de la deuxième séanc
 
 *Note : Un rapport doit être remis à la fin de chaque séance, il permettra d'évaluer dans quelle mesure les concepts étudiés ont été acquis.*
 
+Notation du CI :
+  - Un rapport (parmi les différents rapports qui seront rendus à la fin de chaque séance)
+  - Une soutenance (à la fin d'une des deux séances théoriques)
+  - Un examen final de deux heures max (sur les concepts vus pendant le cours)
+  
+
 Le contenu prévisionnel prévu pour ce CI est le suivant : 
 
 ## MITM SSH : Mise en place de l'attaque
