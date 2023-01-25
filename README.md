@@ -10,27 +10,59 @@ Ce cours ce se compose de :
 
 Il est à noter qu'à chaque début de séance (à partir de la deuxième séance) un retour sur la séance précédente de 10-15 minutes sera proposé. L'idée sera de retirer les éléments/concepts principaux de cette séance.
 
+*Note : Un rapport doit être remis à la fin de chaque séance, il permettra d'évaluer dans quelle mesure les concepts étudiés ont été acquis.*
+
 Le contenu prévisionnel prévu pour ce CI est le suivant : 
 
-  1. MITM SSH : Mise en place de l'attaque
-       1. 
+## MITM SSH : Mise en place de l'attaque
 
-  2. MITM SSH : Mise en place contre mesures + Bonnes pratiques ANSII
+  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1aR890qNaa9wEJwgvUEzW0FSaZ-1aptoI?usp=sharing
+  2. Sujet et ressources : https://drive.google.com/drive/folders/1OYMYbgoCCmAOcv-L7ejkClc-Kq_HRBu9?usp=sharing
 
-  3. MITM HTTP 
 
-  4. INGENIERIE SOCIALE + VULNERABILITES FTP
+## MITM SSH : Mise en place de contre-mesures + Bonnes pratiques ANSII
 
-  5. DNS SPOOFING 
 
-  6. SCAN VULNERABILITE NESSUS
 
-  7. SEANCE THEORIQUE : ANALYSER DANGER ET SOLUTIONS A METTRE EN PLACE
+## MITM HTTP 
 
-  8. DENI DE SERVICE + FUTURE (IE COUCHE PHY) : X1
 
-  9.10.11. OWASP : X3 (SQLI + Authent + XSS + Confid + XEE) 
 
-  12. SEANCE THEORIE RGDP
+## Ingénierie sociale + Vulnérabilités FTP
 
-  13. Séance NEXTCLOUD
+
+
+## DNS Spoofing
+
+
+
+## Scan Vulnérabilités Nessus
+
+
+
+## Séance théorique : Analyse de risques et contre-mesures
+
+
+
+## Déni de Service + analyse théorique (attaques canaux auxilliaires)
+
+
+
+## OWASP : 1/3 (SQLI + Authent + XSS + Confid + XEE) 
+
+
+
+## OWASP : 2/3 (SQLI + Authent + XSS + Confid + XEE) 
+
+
+
+## OWASP : 3/3 (SQLI + Authent + XSS + Confid + XEE) 
+
+
+
+## Séance théorique RGDP
+
+
+
+## Séance NEXTCLOUD
+
