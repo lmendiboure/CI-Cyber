@@ -1,8 +1,8 @@
 # EI8IT218 - Securite des systemes d'information
 
-Ce cours intégré se compose de 13 séances de 2h.
+Ce Cours Intégré (CI) contient 13 séances de 2h (26h au total).
 
-Il est décomposé en treize sujets différents abordés avec pour objectif une vision d'un large nombre de concepts en lien avec la Cyber-sécurité. 
+L'idée de ce CI de cyber-sécurité est de fournir un prenmier aIl est décomposé en treize sujets différents abordés avec pour objectif une vision d'un large nombre de concepts en lien avec la Cyber-sécurité. 
 
 Ce cours ce se compose de :
   - 11 séances de mise en pratique avec des questions tant théoriques que pratiques (groupes de 2 ou 3 -> remise d'un rapport à la fin de chaque séance) 
@@ -13,6 +13,7 @@ Il est à noter qu'à chaque début de séance (à partir de la deuxième séanc
 Le contenu prévisionnel prévu pour ce CI est le suivant : 
 
   1. MITM SSH : Mise en place de l'attaque
+       1. 
 
   2. MITM SSH : Mise en place contre mesures + Bonnes pratiques ANSII
 
