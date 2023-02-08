@@ -2,6 +2,8 @@
 
 Ce Cours Intégré (CI) contient 13 séances de 2h (26h au total).
 
+*Note : Adresse mail (leo.mendiboure@univ-eiffel.fr)*
+
 L'idée de ce CI de cyber-sécurité est de fournir un prenmier aIl est décomposé en treize sujets différents abordés avec pour objectif une vision d'un large nombre de concepts en lien avec la Cyber-sécurité. 
 
 Ce cours ce se compose de :
@@ -30,7 +32,7 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
 *Note: Une correction de cette première séance a été ajouté aux ressources de cette séance*
 
-  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1aR890qNaa9wEJwgvUEzW0FSaZ-1aptoI?usp=sharing
+  1. Laboratoire utilisé (VM) et procédure de mise en place : [https://drive.google.com/drive/folders/1aR890qNaa9wEJwgvUEzW0FSaZ-1aptoI?usp=sharing]: #
   2. Sujet et ressources : https://drive.google.com/drive/folders/1OYMYbgoCCmAOcv-L7ejkClc-Kq_HRBu9?usp=sharing
 
 ## MITM SSH : Mise en place de contre-mesures + Bonnes pratiques ANSII
