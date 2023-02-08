@@ -13,9 +13,15 @@ Il est à noter qu'à chaque début de séance (à partir de la deuxième séanc
 *Note : Un rapport doit être remis à la fin de chaque séance, il permettra d'évaluer dans quelle mesure les concepts étudiés ont été acquis.*
 
 Notation du CI :
-  - Un rapport (parmi les différents rapports qui seront rendus à la fin de chaque séance)
+  - Un rapport (à la fin d'une des deux séances théoriques)
   - Une soutenance (à la fin d'une des deux séances théoriques)
   - Un examen final de deux heures max (sur les concepts vus pendant le cours)
+  
+**Informations complémentaires concernant la notation :** 
+
+Les séances 7 et 12 seront des séances portant sur une analyse théorique de concepts en lien avec la cyber-sécurité. La séance 13 sera consacrée à une soutenance rapide portant sur l'analyse réalisée au cours de la séance 12.
+
+L'évaluation finale, sur table, portera sur l'ensemble des séances.
   
 
 Le contenu prévisionnel prévu pour ce CI est le suivant : 
@@ -35,6 +41,7 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
 ## MITM HTTP 
 
+  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
 
 
 ## Ingénierie sociale + Vulnérabilités FTP
@@ -73,5 +80,5 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
 
 
-## Séance NEXTCLOUD
+## Séance Soutenance
 
