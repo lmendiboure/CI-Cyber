@@ -22,12 +22,15 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
 ## MITM SSH : Mise en place de l'attaque
 
+*Note: Une correction de cette première séance a été ajouté aux ressources de cette séance*
+
   1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1aR890qNaa9wEJwgvUEzW0FSaZ-1aptoI?usp=sharing
   2. Sujet et ressources : https://drive.google.com/drive/folders/1OYMYbgoCCmAOcv-L7ejkClc-Kq_HRBu9?usp=sharing
 
-
 ## MITM SSH : Mise en place de contre-mesures + Bonnes pratiques ANSII
 
+  1. Laboratoire utilisé (**Même qu'à la première séance !**) : https://drive.google.com/drive/folders/1aR890qNaa9wEJwgvUEzW0FSaZ-1aptoI?usp=sharing
+  2. Sujet et ressources : https://drive.google.com/drive/folders/1hATtGZHFOI7QMZJF6j32DRo72rZxQU1S?usp=sharing
 
 
 ## MITM HTTP 
