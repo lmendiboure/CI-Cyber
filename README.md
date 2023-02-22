@@ -28,7 +28,7 @@ L'évaluation finale, sur table, portera sur l'ensemble des séances.
 
 Le contenu prévisionnel prévu pour ce CI est le suivant : 
 
-## MITM SSH : Mise en place de l'attaque
+## Séance 1 - MITM SSH : Mise en place de l'attaque
 
 *Note: Une correction de cette première séance a été ajouté aux ressources de cette séance*
 <!---
@@ -36,52 +36,52 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 -->
   2. Sujet et ressources : https://drive.google.com/drive/folders/1OYMYbgoCCmAOcv-L7ejkClc-Kq_HRBu9?usp=sharing
 
-## MITM SSH : Mise en place de contre-mesures + Bonnes pratiques ANSII
+## Séance 2 - MITM SSH : Mise en place de contre-mesures + Bonnes pratiques ANSII
 
   1. Laboratoire utilisé (**Même qu'à la première séance !**) : https://drive.google.com/drive/folders/1aR890qNaa9wEJwgvUEzW0FSaZ-1aptoI?usp=sharing
   2. Sujet et ressources : https://drive.google.com/drive/folders/1hATtGZHFOI7QMZJF6j32DRo72rZxQU1S?usp=sharing
 
 
-## MITM HTTP 
+## Séance 3 - MITM HTTP 
 
   1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
   2. Sujet et ressources : https://docs.google.com/document/d/1k47vjfnYjKZHLDFnwxor-gN8M0gFSkv11iP01iKAzq4/edit?usp=sharing
 
-## Ingénierie sociale + Vulnérabilités FTP
+## Séance 4 - Ingénierie sociale + Vulnérabilités FTP
 
 
 
-## DNS Spoofing
+## Séance 5 - DNS Spoofing
 
 
 
-## Scan Vulnérabilités Nessus
+## Séance 6 - Scan Vulnérabilités Nessus
 
 
 
-## Séance théorique : Analyse de risques et contre-mesures
+## Séance 7 - Séance théorique : Analyse de risques et contre-mesures
 
 
 
-## Déni de Service + analyse théorique (attaques canaux auxilliaires)
+## Séance 8 - Déni de Service + analyse théorique (attaques canaux auxilliaires)
 
 
 
-## OWASP : 1/3 (SQLI + Authent + XSS + Confid + XEE) 
+## Séance 9 - OWASP : 1/3 (SQLI + Authent + XSS + Confid + XEE) 
 
 
 
-## OWASP : 2/3 (SQLI + Authent + XSS + Confid + XEE) 
+## Séance 10 - OWASP : 2/3 (SQLI + Authent + XSS + Confid + XEE) 
 
 
 
-## OWASP : 3/3 (SQLI + Authent + XSS + Confid + XEE) 
+## Séance 11 - OWASP : 3/3 (SQLI + Authent + XSS + Confid + XEE) 
 
 
 
-## Séance théorique RGDP
+## Séance 12 - Séance théorique RGDP
 
 
 
-## Séance Soutenance
+## Séance 13 - Soutenance (Présentation Bilan Séance 12)
 
