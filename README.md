@@ -45,7 +45,7 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 ## MITM HTTP 
 
   1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
-
+  2. Sujet et ressources : https://docs.google.com/document/d/1k47vjfnYjKZHLDFnwxor-gN8M0gFSkv11iP01iKAzq4/edit?usp=sharing
 
 ## Ingénierie sociale + Vulnérabilités FTP
 
