@@ -45,7 +45,7 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 ## Séance 3 - MITM HTTP 
 
   1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
-  2. Sujet et ressources : https://docs.google.com/document/d/1k47vjfnYjKZHLDFnwxor-gN8M0gFSkv11iP01iKAzq4/edit?usp=sharing
+  2. Sujet et ressources : https://drive.google.com/drive/folders/1CwngSF4mVtXVyTZYqmQbr3BibjYpMyKj?usp=sharing
 
 ## Séance 4 - Ingénierie sociale + Vulnérabilités FTP
 
