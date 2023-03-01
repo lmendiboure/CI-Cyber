@@ -49,7 +49,8 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
 ## Séance 4 - Ingénierie sociale + Vulnérabilités FTP
 
-
+  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
+  2. Sujet et ressources : https://drive.google.com/drive/folders/1Tz5fNSxi54MGr1KlDe3qgi1-XGCsgKeM?usp=sharing 
 
 ## Séance 5 - DNS Spoofing
 
