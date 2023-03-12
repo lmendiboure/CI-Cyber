@@ -17,7 +17,7 @@ Il est à noter qu'à chaque début de séance (à partir de la deuxième séanc
 Notation du CI :
   - Un rapport (à la fin d'une des deux séances théoriques)
   - Une soutenance (à la fin d'une des deux séances théoriques)
-  - Un examen final de deux heures max (sur les concepts vus pendant le cours)
+  - Un examen final de deux heures max (sur les concepts vus pendant le cours) ; Questions potentielles : https://docs.google.com/document/d/15EVXx8nSTOyBk6pf9twuDGAbQw9gqTLoAv3tlA5E9YQ/edit?usp=sharing 
   
 **Informations complémentaires concernant la notation :** 
 
