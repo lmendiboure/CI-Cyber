@@ -58,15 +58,17 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
   2. Sujet et ressources : https://drive.google.com/drive/folders/1eIuuQyqBS8sND4ld_gCsWRslUoQJADcZ?usp=sharing
 
 
-## Séance 6 - DNS Spoofing
+## Séance 6 - Déni de Service + analyse théorique (attaques canaux auxilliaires)
 
+  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
+  2. Sujet et ressources : https://drive.google.com/drive/folders/1WgiW6qG4pTq3uFmnAFhH6Ph2OrTuLVdl?usp=sharing
 
 
 ## Séance 7 - Séance théorique : Analyse de risques et contre-mesures
 
 
 
-## Séance 8 - Déni de Service + analyse théorique (attaques canaux auxilliaires)
+## Séance 8 - DNS Spoofing
 
 
 
