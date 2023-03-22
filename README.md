@@ -66,6 +66,8 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
 ## Séance 7 - Séance théorique : Analyse de risques et contre-mesures
 
+  1. Sujet : https://docs.google.com/document/d/1MVy7qY6YIfbYvJYl6wT3cVsAer-3ZS_93aa4NVccQXw/edit?usp=sharing 
+
 
 
 ## Séance 8 - DNS Spoofing
