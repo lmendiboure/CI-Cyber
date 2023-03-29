@@ -69,21 +69,20 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
   1. Sujet : https://docs.google.com/document/d/1MVy7qY6YIfbYvJYl6wT3cVsAer-3ZS_93aa4NVccQXw/edit?usp=sharing 
 
 
+## Séance 8 - OWASP : SQLi
 
-## Séance 8 - DNS Spoofing
-
-
-
-## Séance 9 - OWASP : 1/3 (SQLI + Authent + XSS + Confid + XEE) 
+  1. Sujet : https://drive.google.com/drive/folders/1IbH2yu-6Tmsk44V5L_hxIFFiEaTaNreq?usp=sharing
 
 
 
-## Séance 10 - OWASP : 2/3 (SQLI + Authent + XSS + Confid + XEE) 
+## Séance 9 - OWASP : 2/3 (Authent + XSS + Confid + XEE) 
 
 
 
-## Séance 11 - OWASP : 3/3 (SQLI + Authent + XSS + Confid + XEE) 
+## Séance 10 - OWASP : 3/3 (Authent + XSS + Confid + XEE) 
 
+
+## Séance 11 - DNS Spoofing
 
 
 ## Séance 12 - Séance théorique RGDP
