@@ -77,6 +77,8 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
 ## Séance 9 - OWASP : 2/3 (Authent + XSS + Confid + XEE) 
 
+  1. Sujet : https://drive.google.com/drive/folders/1SMEwxtWa8h4zw33fecBJOB5Wfx7QXtQU?usp=sharing
+
 
 
 ## Séance 10 - OWASP : 3/3 (Authent + XSS + Confid + XEE) 
