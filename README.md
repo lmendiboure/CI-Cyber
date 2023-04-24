@@ -79,17 +79,12 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
   1. Sujet : https://drive.google.com/drive/folders/1SMEwxtWa8h4zw33fecBJOB5Wfx7QXtQU?usp=sharing
 
+## Séance 10 -11 : Présentations - Futures directions 
+
+  1. Sujets proposés : https://docs.google.com/document/d/1FnBKxHVDiflp7SX_HHk4Av0diQMF0MVpIlY9ZYXcDYI/edit?usp=sharing
+  
+## Séance 12 - OWASP : 3/3 (Authent + XSS + Confid + XEE) 
 
 
-## Séance 10 - OWASP : 3/3 (Authent + XSS + Confid + XEE) 
-
-
-## Séance 11 - DNS Spoofing
-
-
-## Séance 12 - Séance théorique RGDP
-
-
-
-## Séance 13 - Soutenance (Présentation Bilan Séance 12)
+## Séance 12 - DNS Spoofing
 
