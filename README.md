@@ -3,8 +3,7 @@
 Ce Cours Intégré (CI) contient 13 séances de 2h (26h au total).
 
 *Note : Adresse mail (leo.mendiboure@univ-eiffel.fr)*
-
-L'idée de ce CI de cyber-sécurité est de fournir un prenmier aIl est décomposé en treize sujets différents abordés avec pour objectif une vision d'un large nombre de concepts en lien avec la Cyber-sécurité. 
+Ce CI est décomposé en treize sujets différents abordés avec pour objectif une vision d'un large nombre de concepts en lien avec la Cyber-sécurité. 
 
 Ce cours ce se compose de :
   - 11 séances de mise en pratique avec des questions tant théoriques que pratiques (groupes de 2 ou 3 -> remise d'un rapport à la fin de chaque séance) 
