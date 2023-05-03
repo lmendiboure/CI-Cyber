@@ -82,8 +82,9 @@ Le contenu prévisionnel prévu pour ce CI est le suivant :
 
   1. Sujets proposés : https://docs.google.com/document/d/1FnBKxHVDiflp7SX_HHk4Av0diQMF0MVpIlY9ZYXcDYI/edit?usp=sharing
   
-## Séance 12 - OWASP : 3/3 (Authent + XSS + Confid + XEE) 
+## Séance 12 - DNS Spoofing 
 
+  1. Sujet : https://drive.google.com/drive/folders/189LSaUeAiB-wYIVqPqcOeFukqKRhNNrT?usp=sharing
 
-## Séance 12 - DNS Spoofing
+## Séance 13 - Buffer Overflow
 
