@@ -1,6 +1,6 @@
 # EI8IT218 - Sécurité des systèmes d'information
 
-*Note : Adresse mail (leo.mendiboure@univ-eiffel.fr)*
+*Note : Adresse mail (leo.mendiboure@univ-eiffel.fr)* => Celle ci est à utiliser pour l'envoi des rapports à l'issue de chacune des séances
 
 ## Quelques éléments d'introduction
 
@@ -18,66 +18,11 @@ Notation du CI :
   
 ## Contenu des séances
 
+Avant chaque séance sera ajouté ici un lien vers le contenu de la séance du jour. A l'issu de la première séance, des éléments de correction de la séance seront également mis à disposition sur cette page.
+
 ### Séance 1 - Prise en main de l'environnement d'expérimentation et rapide étude théorique
 
+  - Lien vers le contenu (+ le corrigé au commencement de la séance suivante) de la séance : https://drive.google.com/drive/folders/1MOPcVVWhqT2Q8WTGaudqYleaPQHVMw2J?usp=sharing 
 
+Quelques éléments de contenu pour les séances suivantes : MITM, Ingenierie sociale, Scan de vulnérabilités, OWASP, Déni de Service, Buffer Overflow, etc.
 
-
-### Séance 2 - MITM SSH : Mise en place de l'attaque
-
-*Note: Une correction de cette première séance a été ajouté aux ressources de cette séance*
-<!---
-  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1aR890qNaa9wEJwgvUEzW0FSaZ-1aptoI?usp=sharing
--->
-  2. Sujet et ressources : https://drive.google.com/drive/folders/1OYMYbgoCCmAOcv-L7ejkClc-Kq_HRBu9?usp=sharing
-
-### Séance 3 - MITM SSH : Mise en place de contre-mesures + Bonnes pratiques ANSII
-
-  1. Laboratoire utilisé (**Même qu'à la première séance !**) : https://drive.google.com/drive/folders/1aR890qNaa9wEJwgvUEzW0FSaZ-1aptoI?usp=sharing
-  2. Sujet et ressources : https://drive.google.com/drive/folders/1hATtGZHFOI7QMZJF6j32DRo72rZxQU1S?usp=sharing
-
-
-### Séance 4 - MITM HTTP 
-
-  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
-  2. Sujet et ressources : https://drive.google.com/drive/folders/1CwngSF4mVtXVyTZYqmQbr3BibjYpMyKj?usp=sharing
-
-### Séance 5 - Ingénierie sociale + Vulnérabilités FTP
-
-  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
-  2. Sujet et ressources : https://drive.google.com/drive/folders/1Tz5fNSxi54MGr1KlDe3qgi1-XGCsgKeM?usp=sharing 
-
-### Séance 6 - Scan Vulnérabilités Nessus
-
-  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
-  2. Sujet et ressources : https://drive.google.com/drive/folders/1eIuuQyqBS8sND4ld_gCsWRslUoQJADcZ?usp=sharing
-
-### Séance 7 - Déni de Service + analyse théorique (attaques canaux auxilliaires)
-
-  1. Laboratoire utilisé (VM) et procédure de mise en place : https://drive.google.com/drive/folders/1VbS97Iug8ihGkDzEPPlTnBFxlpB-4ArV?usp=sharing   
-  2. Sujet et ressources : https://drive.google.com/drive/folders/1WgiW6qG4pTq3uFmnAFhH6Ph2OrTuLVdl?usp=sharing
-
-
-### Séance 8 - Séance théorique : Analyse de risques et contre-mesures
-
-  1. Sujet : https://docs.google.com/document/d/1MVy7qY6YIfbYvJYl6wT3cVsAer-3ZS_93aa4NVccQXw/edit?usp=sharing 
-
-### Séance 9 - OWASP : SQLi
-
-  1. Sujet : https://drive.google.com/drive/folders/1IbH2yu-6Tmsk44V5L_hxIFFiEaTaNreq?usp=sharing
-
-### Séance 10 - OWASP : 2/3 (Authent + XSS + Confid + XEE) 
-
-  1. Sujet : https://drive.google.com/drive/folders/1SMEwxtWa8h4zw33fecBJOB5Wfx7QXtQU?usp=sharing
-
-### Séance 11 - 12 : Présentations - Futures directions 
-
-  1. Sujets proposés : https://docs.google.com/document/d/1FnBKxHVDiflp7SX_HHk4Av0diQMF0MVpIlY9ZYXcDYI/edit?usp=sharing
-  
-### Séance 13 - DNS Spoofing 
-
-  1. Sujet : https://drive.google.com/drive/folders/189LSaUeAiB-wYIVqPqcOeFukqKRhNNrT?usp=sharing
-
-### Séance 14 - Buffer Overflow
-
-  1. Sujet : https://drive.google.com/drive/folders/1S3IQKNmMvalNND_SLCceGxZqq9H6wtfo?usp=sharing
