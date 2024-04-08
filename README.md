@@ -11,7 +11,7 @@ Les conteneurs Docker seront utilisés pour toutes ces applications pratiques. C
 
 Il convient de noter que nous utiliserons un environnement de test, et donc une blockchain privée dans laquelle nous pouvons créer des utilisateurs, allouer des éthers, effectuer des transactions, développer et tester des contrats intelligents gratuitement et rapidement. Il existe également un certain nombre de réseaux de test Ethereum (Testnet), mais ceux-ci sont principalement destinés à tester des smart contracts et non à expérimenter des éléments de l'architecture de la blockchain.
 
-**Important:** A la fin de la session, veuillez m'envoyer un court rapport par groupe de 2 étudiants répondant aux questions posées dans ce TP (romain.dulout@univ-eiffel.fr).
+**Important:** A la fin de la session, veuillez m'envoyer un court rapport par groupe de 2 étudiants répondant aux questions posées dans ce TP (leo.mendiboure@univ-eiffel.fr).
 
 ## Prérequis (15 minutes max)
 
