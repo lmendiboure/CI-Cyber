@@ -198,7 +198,7 @@ Une fois cela fait, vous devriez pouvoir tester que votre implémentation foncti
 
 **QB.1 Que vous montre le résultat de ce curl ?**
 
-**QB.2 Que devez-vous changer dans cette ligne pour retourner la liste des comptes eth enregistrés sur ce réseau Blockchain ? Combien y a-t-il de comptes à l'heure actuelle ?** Pour répondre à cette question, vous pouvez utiliser le site suivant : https://www.okx.com/okbc/docs/dev/api/okbc-api/json-rpc-api#eth-accounts
+**QB.2 Que devez-vous changer dans cette ligne pour retourner la liste des comptes eth enregistrés sur ce réseau Blockchain ? Combien y a-t-il de comptes à l'heure actuelle ?** Pour répondre à cette question, vous pouvez utiliser le site suivant : https://ethereum.org/en/developers/docs/apis/json-rpc/
 
 **QB.3 Quelle ligne du fichier Dockerfile.nodes semble avoir créé cet utilisateur ? Dans lequel des fichiers fournis de ce TP ce mot de passe est-il stocké ? Quelle est la valeur de ce mot de passe ?** 
 
