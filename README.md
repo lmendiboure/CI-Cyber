@@ -383,6 +383,30 @@ Ensuite, vous devez modifier le fichier dapp que nous vous avons fourni en ajout
 
 Enfin, vous devrez lancer un serveur Python (ou autre) pour partager le contenu de cette page html. Pour ce faire, vous pouvez simplement utiliser la commande suivante (dans un dossier dans lequel vous avez placé le fichier DApp) : `python3 -m http.server 8000`.
 
+
+
+
 Vous pouvez alors ouvrir le navigateur de votre choix et interagir avec le contrat. Veuillez noter que vous devrez CONNECTER MetaMask à cette page. Pour ce faire, cliquez simplement sur votre extension MetaMask, puis sur les trois points dans le coin supérieur droit, et vous verrez "Connected Sites", où vous pouvez ajouter ce site.
 
 Il ne reste plus qu'à tester si tout cela fonctionne !
+
+## G. Les attaques par débordement et sous-débordement à l'encontre de smart contracts -> Mise en oeuvre
+
+Les contrats intelligents, comme tout programme, peuvent être vulnérables à des attaques dites de débordement (buffer overflow) qui font partie des attaques les plus courantes. 
+
+**QG.1** En vous basant sur le lien suivant, expliquez de manière générale en quoi consiste une attaque dite de débordement et quelles peuvent en être les conséquences. Présentez quelques attaques par débordement de mémoire connues.
+(Lien : https://www.malekal.com/les-attaques-par-saturation-memoire-tampon-buffer-overflow) 
+
+Notez toutefois qu'au delà d'attaques volontaires, il existe dans l'histoire de nombreux exemples de dépassement d'entiers par exemple le vol 501 d'Ariane 5 (https://fr.wikipedia.org/wiki/Vol_501_d%27Ariane_5) aux conséquences importantes.
+
+**QG.2** Dans le contexte spécifique d'un smart contract et de la Blockchain, expliquez comment ces attaques peuvent être mises en oeuvre et quelles peuvent en être les conséquences. Egalement, quelle différence entre une attaques entre débordement et sous débordement ? Quelles contremesures sont proposées pour lutter contre ces attaques ?
+(Lien : https://www.geeksforgeeks.org/overflow-and-underflow-attacks-on-smart-contracts/) 
+
+Le choix de compilateur réalisé dans ce travail pratique trouve donc sa justification dans le fait que cette version datant de 2018 est vulnérable à ce type d'attaques.
+
+En vous basant sur les exemples présentés dans l'article ci-dessous, l'idée va à present être de faire évoluer le smart contract tirelire sur lequel vous avez travaillé jusqu'ici en le rendant vulnérable à la fois à des attaques par débordement et par sous-débordement.
+
+Pour ce faire, il vous sera donc nécessaire d'introduire de nouvelles variables ou de modifier le comportement des variables existantes. Notez qu'une solution pourrait également être d'utiliser un entier à la plage de données plus limitées (exemple uint8 au lien de uint - alias de uint256). Toute attaque par débordement et sous débordement sera considérée comme valide qu'elle impacte directement ou non le solde du smart contract.
+
+**QG.3** Joignez au rapport le code proposé pour réaliser une attaque par débordement et une attaque par sous débordement à l'encontre du smart contract tirelire.
+
