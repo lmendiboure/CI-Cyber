@@ -262,9 +262,9 @@ Notez que vous pouvez spécifier l'adresse d'un compte donné (EMITTER/RECEIVER)
 
 Pour commencer, nous allons simplement essayer de compiler et de déployer le code actuel dans le fichier tirelire.sol. Pour ce faire, nous allons d'abord compiler ce fichier en générant deux fichiers essentiels : un fichier bin, qui correspond au contrat compilé et donc au code qui sera placé dans la blockchain, et un fichier ABI (Application Binary Interface), qui nous permettra d'interagir avec le contenu hexadécimal du fichier bin dans un format compréhensible.
 
-Utilisez votre navigateur web pour accéder à `https://chriseth.github.io/browser-solidity/#version=soljson-latest.js`, le compilateur en ligne en temps réel de Solidity. Après avoir accédé à cette page dans un navigateur, collez le contenu du fichier tirelire.sol à la place du code sur l'interface. Cela devrait avoir été compilé automatiquement et vous pouvez maintenant récupérer le code `ABI` et `bin` généré sous les noms de variables `Bytecode` et `Interface`.
+Utilisez votre navigateur web pour accéder à `https://remix.ethereum.org/`, le compilateur en ligne en temps réel de Solidity. Après avoir accédé à cette page dans un navigateur, collez le contenu du fichier tirelire.sol à la place du code sur l'interface. Cela devrait avoir été compilé automatiquement et vous pouvez maintenant récupérer le code `ABI` et `bin` généré sous les noms de variables `Bytecode` et `Interface`.
 
-Note (importante !): si vous utilisez la dernière version du compilateur, il se peut que cela ne fonctionne pas. Nous vous conseillons donc de modifier les paramètres de configuration pour utiliser une version fonctionnelle du compilateur telle que : `0.4.24+commit.e67f0147`.
+**Note (importante !):** si vous utilisez la dernière version du compilateur, il se peut que cela ne fonctionne pas. Nous vous conseillons donc de modifier les paramètres de configuration pour utiliser une version fonctionnelle du compilateur telle que : `0.4.24+commit.e67f0147`.
 
 ```console
 // Stocker le fichier bin, en n'oubliant pas d'ajouter 0x pour qu'il soit correctement interprété
