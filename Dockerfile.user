@@ -1,3 +1,5 @@
+# If problem "ethereum not found" => Replace the RUN by multiple RUN (one by line)
+
 FROM ubuntu:latest
 
 COPY genesis.json /tmp
