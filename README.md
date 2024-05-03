@@ -410,3 +410,51 @@ Pour ce faire, il vous sera donc nécessaire d'introduire de nouvelles variables
 
 **QG.3** Joignez au rapport le code proposé pour réaliser une attaque par débordement et une attaque par sous débordement à l'encontre du smart contract tirelire.
 
+## H. Déploiement d'outils de supervision d'environnements conteneurisés
+
+**QH.1** Qu'est ce que Portainer ? Pour quoi cet outil peut-il être utile ?
+(Source possible : https://www.cachem.fr/portainer-docker/) 
+
+Pour mettre en oeuvre cet outil sur votre machine et lancer une observation des conteneurs, vous pouvez utiliser la ligne de commande suivante.
+
+`docker run -d -p 9000:9000 --name portainer --restart always -v /var/run/docker.sock:/var/run/docker.sock portainer/portainer`
+
+**QH.2** Que semble faire cette ligne de commande ? Décrivers les différents éléments la composant.
+
+Une fois ceci réalisé, vous devriez pouvoir être en mesure d'accéder à l'outil via votre navigateur à l'adresse suivante : http://localhost:9000.
+
+**QH.3** Pour chacun des éléments suivants, indiquez les informations qui peuvent être récupérées grâce à Portainer.
+ 1. Visualisation des conteneurs
+ 2. Gestion des conteneurs 
+ 3. Visualisation des images
+ 4. Gestion des volumes
+ 5. Surveillance des ressources
+ 6. Configuration des réseaux
+ 7. Gestion des stacks et des services
+ 8. Gestion des utilisateurs et des équipes
+ 9. Journalisation des conteneurs
+ 10. Exploration des événements Docker
+
+Un autre outil couramment utilisé est Netdata. Vous pourrez quand à lui l'installer en utilisant la commande suivante.
+
+```console
+docker run -d --name=netdata \
+  -p 19999:19999 \
+  --cap-add SYS_PTRACE \
+  -v /proc:/host/proc:ro \
+  -v /sys:/host/sys:ro \
+  -v /var/run/docker.sock:/var/run/docker.sock:ro \
+  -e NETDATA_HOSTNAME=$HOSTNAME \
+  --restart=unless-stopped \
+  netdata/netdata
+```
+**QH.4** Qu'est ce que cet outil ? Quelle différence avec Portainer ? Que permet de faire la ligne de commande décrite ci-dessus (ie quels sont les éléments à indiquer pour déploye cet outil) ?
+(Source possible : https://skoali.com/help/vps/installer-netdata) 
+
+NetData sera quand à lui disponible à l'adresse suivante : http://localhost:19999
+
+**QH.5** Quelles sont les principales informations qui peuvent être récupérées par cet outil en lien avec les noeuds déployés ? En lien avec les conteneurs déployés ? Pour quels autres éléments des informations peuvent être également récupérées ?
+
+**QH.6** Comment fonctionnent à votre avis ces outils ? Quelles solutions sont mises en oeuvre pour la sécurisation des données récupérées au travers d'eux ?
+
+    
